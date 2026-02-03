@@ -4,14 +4,12 @@
 A machine learning web application that predicts wine quality based on physicochemical properties using the K-Nearest Neighbors (KNN) algorithm.
 Built with Python, Streamlit, and Scikit-Learn.
 
-⸻
 
 🌐 Live Demo
 
 👉 Streamlit App Link:
 http://ismaeel-qnlawklthvlydu4zgeqtgl.streamlit.app/
 
-⸻
 
 📌 Project Overview
 
