@@ -54,7 +54,7 @@ The model is trained on the WineQT dataset, using features such as:
 1. Clone the repository
 
 git clone YOUR_REPO_LINK
-cd YOUR_REPO_NAME
+gh repo clone notismaeel/Wine_Quality_Prediction_KNN
 
 2. Install dependencies
 
