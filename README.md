@@ -8,7 +8,7 @@ Built with **Python, Streamlit, and Scikit-Learn**.
 ## 🌐 Live Demo
 
 👉 **Streamlit App Link:**  
-http://ismaeel-qnlawklthvlydu4zgeqtgl.streamlit.app/
+https://wine-quality-prediction-using-knn-axvphwoi8wmxwhv7mfuunw.streamlit.app/
 
 ---
 
